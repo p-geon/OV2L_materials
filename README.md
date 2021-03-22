@@ -4,5 +4,7 @@ OV2Lの資料リンク集
 
 ## 3/20 輪講会
 
-- MASKCYCLEGAN-VC: https://docs.google.com/presentation/d/1VgKMT8oVlZCrYEWoDAKusEhyZij1itBv7iU88yLrKhU/edit#slide=id.p
+- Efficient TTS: https://discord.com/channels/766257051806203955/773559660413452288/822850958988017717
+- MASKCYCLEGAN-VC: https://discord.com/channels/766257051806203955/773559660413452288/822851001962201089
+- GCPでできるだけ安くディープラーニング: https://discord.com/channels/766257051806203955/773559660413452288/822851012435116043
 - mac x Docker x 音声: https://discord.com/channels/766257051806203955/774535465138257950/822834283529240606
